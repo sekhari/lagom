@@ -7,6 +7,13 @@ categories:
 ---
 
 Change $1 + 1 = 2$. 
+
+$$
+\begin{equation}
+1 + 1 = 4
+\end{equation}
+$$
+
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 
 meggings hella selvage. Butcher bespoke seitan, cornhole umami gentrify put a bird 
 on it occupy trust fund. Umami whatever kitsch, locavore fingerstache Tumblr pork belly
