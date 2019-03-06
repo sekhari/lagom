@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>The blog of Matt Swanson</title>
+ <title>The blog of Concentration Inequalities Reading Group</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000"/>
- <updated>2019-03-06T10:53:25-05:00</updated>
+ <updated>2019-03-06T10:55:01-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
-   <name>Matt Swanson</name>
-   <email>test@example.com</email>
+   <name>Concentration Inequalities Reading Group</name>
+   <email>as3663@cornell.edu</email>
  </author>
 
  
