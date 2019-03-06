@@ -8,13 +8,28 @@ categories:
 
 Change $1 + 1 = 2$. 
 
+$\newcommand{hello}{123}$
 $$
 \begin{equation}
 1 + 1 = 4
 \end{equation}
 $$
 
-Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 
+
+\begin{equation}
+1 + 1 = 5 \label{eq:hel}
+\end{equation}
+
+$$
+\begin{align}
+1 + 1&= 3 \notag \\
+\alpha, \beta, \gamma \\
+1 + 5 &= 4 
+\end{align}
+$$
+
+\eqref{eq:hel}
+$\hello$ Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 
 meggings hella selvage. Butcher bespoke seitan, cornhole umami gentrify put a bird 
 on it occupy trust fund. Umami whatever kitsch, locavore fingerstache Tumblr pork belly
 [keffiyeh](#). Chia Echo Park Pitchfork, Blue Bottle [hashtag](#) stumptown skateboard selvage 
